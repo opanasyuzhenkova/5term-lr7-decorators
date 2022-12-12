@@ -124,6 +124,3 @@ if __name__ == "__main__":
 
     show_currencies(wrapped_curlist_json)
     show_currencies(wrapped_curlist_csv)
-
-
-
